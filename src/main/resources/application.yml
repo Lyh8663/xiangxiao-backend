@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: xiangxiao3.0
+    password: 123456
+    #url: jdbc:mysql:///xiangxiao?useSSL=false
+    url: jdbc:mysql:///xiangxiao3.0?useSSL=false
+    driver‐class‐name: com.mysql.jdbc.Driver
+server:
+  port: 8080
